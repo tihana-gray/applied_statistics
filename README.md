@@ -14,3 +14,12 @@ Everything needed to run the notebook is included in this repository.
 - `.gitignore` - Specifies files and folders that should not be tracked by Git.
 
 ## Running the Notebook
+
+1. Install the required packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Open `problems.ipynb` in Jupyter Lab (`jupyter lab`) or VS Code.
+3. Run all cells from top to bottom.
