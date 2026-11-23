@@ -55,7 +55,7 @@ References to documentation and examples used during the assessment are included
 2. Open `problems.ipynb` in Jupyter Lab (`jupyter lab`) or VS Code.
 3. Run all cells from top to bottom.
 
-`----------------------------------------------------------------------`
+---
 
 ## Problem 1: Exploring Petal Length
 
